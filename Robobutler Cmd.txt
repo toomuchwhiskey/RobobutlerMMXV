@@ -1,0 +1,2 @@
+./xidel/xidel --template-file=./xidel/reddit-robobutler_snoo-edit-6.xml
+
